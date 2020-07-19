@@ -1,3 +1,3 @@
 # Python-for-Everyone
-# Coursera Specialization
+# Python Specialization
 Attaullah Shafiq : attaullahshafiq10@gmail.com
